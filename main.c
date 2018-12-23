@@ -1,5 +1,5 @@
 #include<stdio.h>
-Void main()
+void main()
 {
 check();
 gret();
