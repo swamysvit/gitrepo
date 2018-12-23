@@ -1,8 +1,9 @@
 #include<stdio.h>
 Void main()
 {
-check();
-gret();
+check()
+gret()
+
 }
 
 
